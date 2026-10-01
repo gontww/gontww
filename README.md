@@ -26,8 +26,7 @@
 
 - 💼 Atualmente atuo como **Desenvolvedor Backend na TOTVS**, desenvolvendo e sustentando soluções para sistemas de conciliação e gestão financeira com foco em integridade transacional e escalabilidade.
 - 🎓 Cursando **Sistemas de Informação** na **Universidade Federal de Lavras (UFLA)**.
-- 🛠️ Experiência prévia como **Desenvolvedor Full Stack** na Youx Group, integrando backends Java/Spring Boot e frontends modernos.
-- 🌐 Proficiência em inglês nível **C2 (Proficient)** certificado pelo EF SET.
+- 🌐 Proficiência em inglês nível **C2 (Proficient)**.
 - 🎯 Foco contínuo em: arquitetura limpa, microsserviços, modelagem de banco de dados e alta disponibilidade.
 
 ---
@@ -52,23 +51,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
----
-
-### 📌 Projetos em Destaque
-
-- 🔹 **[Kotlin CRUD com Autenticação](https://github.com/gontww/kotlin-crud)**: API RESTful robusta desenvolvida em Kotlin com Spring Boot, Spring Security e autenticação por tokens JWT integrados ao PostgreSQL.
-- 🔹 **[Brasil em Dados](https://github.com/gontww/brasil-em-dados)**: Plataforma interativa de visualização e analytics 3D com dados oficiais do IBGE (SIDRA), construída com Vue 3, TypeScript, Mapbox GL e Apache ECharts.
-- 🔹 **[Sistema de Pagamentos](https://github.com/gontww/sistema-pagamentos)**: Estudo transacional com PostgreSQL implementando procedures, triggers e controle rigoroso de concorrência e integridade referencial.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gontww&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontww&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens mais utilizadas" />
-</div>
 
 ---
 
